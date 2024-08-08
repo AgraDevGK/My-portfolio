@@ -42,7 +42,7 @@ const SocialLinks = () => {
           Resume<BsFillPersonLinesFill size={30}/>
         </>
       ),
-      href:'/Gaurav Kushwah fresher 2025 ',
+      href:'/Gaurav Kushwah fresher 2025.pdf ',
       style:'rounded-br-md',
       download:true,
     },
