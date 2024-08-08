@@ -10,23 +10,9 @@ const About = () => {
             <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
         </div>
         <p className='text-xl mt-20'>
-        Enthusiastic and motivated Full Stack Java
- Developer with a solid foundation in
- Java programming and web development.
- Recently graduated with a Bachelor's
- degree in Computer Science, eager to leverage
- academic knowledge and hands-on
- project experience to contribute effectively to
- dynamic development teams.
+        I am a dedicated Full Stack Web Developer with a strong foundation in both front-end and back-end development. My passion lies in crafting robust and user-centric applications. Equipped with a Bachelor's degree in Computer Science, I am eager to leverage my academic knowledge to contribute meaningfully to innovative projects. I possess a keen eye for detail and a problem-solving mindset, enabling me to deliver high-quality solutions.
  <br/>
- <p className='text-xl'> Enthusiastic and motivated Full Stack Java
- Developer with a solid foundation in
- Java programming and web development.
- Recently graduated with a Bachelor's
- degree in Computer Science, eager to leverage
- academic knowledge and hands-on
- project experience to contribute effectively to
- dynamic development teams.</p>
+ <p className='text-xl'> Opportunities are the lifeblood of growth. Let's connect and explore how we can turn potential into reality. Together, we can create something extraordinary.</p>
 
         </p>
       </div>

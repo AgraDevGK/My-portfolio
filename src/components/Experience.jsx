@@ -7,6 +7,7 @@ import nodebb from '../assets/nodebb.jpeg'
 import Boot from '../assets/Boot.jpeg'
 import Tailwind from '../assets/Tailwind.jpeg'
 import React1 from '../assets/React1.png'
+import Figma from '../assets/figma.png'
 
 export const Experience = () => {
 const techs =[
@@ -56,6 +57,12 @@ const techs =[
         id:8,
         src:Boot,
         title:'Bootstrap',
+        style:'shadow-purple-500'
+    },
+    {
+        id:9,
+        src:Figma,
+        title:'Figma',
         style:'shadow-purple-500'
     },
 ]

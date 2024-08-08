@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn<FaLinkedin size={30}/>
         </>
       ),
-      href:'https://linkedin.com',
+      href:'https://www.linkedin.com/in/gaurav-kushwah-it-dev',
       style:'rounded-tr-md'
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           Github<FaGithub size={30}/>
         </>
       ),
-      href:'https://github.com',
+      href:'https://github.com/AgraDevGK',
       
     },
     {
@@ -32,7 +32,7 @@ const SocialLinks = () => {
           Mail<HiOutlineMail size={30}/>
         </>
       ),
-      href:'mailto:foo@gmail.com',
+      href:'mailto:agradevgk@gmail.com',
       
     },
     {
@@ -42,7 +42,7 @@ const SocialLinks = () => {
           Resume<BsFillPersonLinesFill size={30}/>
         </>
       ),
-      href:'/Gaurav Kushwah fresher 2025.pdf ',
+      href:'/Gaurav Kushwah fresher 2025 ',
       style:'rounded-br-md',
       download:true,
     },
